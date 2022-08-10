@@ -23,3 +23,9 @@ h1{
    right: 0;
    top: 0%;
  }
+ .menuPrincipal{
+   position: relative;
+   width: 100;
+   height: 80px;
+   background: rgb(229, 240, 85);
+ }
